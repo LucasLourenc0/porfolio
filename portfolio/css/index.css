@@ -1,0 +1,25 @@
+body{
+    background: url(../img/fundo.jpg);
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-size:cover;  
+  
+    }
+body{
+    font-family:sans-serif;
+}
+
+ul{
+    background: rgba(0,0,0,0.2);
+    list-style: :none;
+    
+}
+li{
+    margin-top: :26 px;
+    list-style: :none;
+}
+li a{
+    text-decoration: none;
+    color: :#fff;
+    text transform: uppercase;
+}
